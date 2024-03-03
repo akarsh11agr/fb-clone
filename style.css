@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #F0F2F5;
+    font-family: 'Roboto', sans-serif;
+}
+body img{
+    width:330px;
+    margin-bottom: 58px;
+    height:195px;
+}
+.container{
+    position: absolute;
+    top: 30%;
+    left: 19%;
+    font-size: 28px;
+}
+.container h1{
+    color: #0866ff
+}
+header{
+    height: 400px;
+    width: 396px;
+    position: absolute;
+    top: 18%;
+    left: 55%;
+    background-color: white;
+    border-radius: 9px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.boxa input{
+    width: 75%;
+    margin: 10px;
+    margin-top: 18px;
+    margin-left: 26px;
+    padding: 14px 18px;
+    border-radius: 6px;
+    border-color: grey;
+    border-width: 1px;
+    font-size: 15px;
+    color:#030303;
+    font-weight: 400;
+    
+}
+.boxb input{
+    width: 75%;
+    margin: 10px;
+    margin-top: 18px;
+    margin-left: 26px;
+    padding: 14px 18px;
+    border-radius: 6px;
+    border-color:grey ;
+    border-width: 1px;
+    font-size: 15px;
+    color:#030303;
+}
+.login{
+    width: 81%;
+    text-align: center;
+    background-color: #0866ff;
+    margin-top: 10px;
+    margin-left: 23px;
+    padding: 11px;
+    border-radius: 7px;
+}
+.login button{
+    
+}
+.login a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.forp {
+    text-align: center;
+    margin-top: 12px;
+}
+.forp a{
+    text-decoration: none;
+    color: #0866ff;
+    font-size: 15px;
+}
+.newac{
+    width: 60%;
+    margin: 17%;
+    text-align: center;
+    margin-top: 40px;
+    background-color: #42b72a;
+    padding: 20px 12px;
+    border-radius: 7px;
+}
+
+.newac a{
+    text-decoration: none;
+    color: white;
+    
+}
+.pglink{
+    text-align: center;
+    margin-top: 20%;
+
+}
+.pglink a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    
+
+}
